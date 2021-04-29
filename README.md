@@ -12,18 +12,18 @@ The questions used in evaluating bias and results of the Watches category analys
 
 - 1. How many Vine reviews and non-Vine reviews were there?
   - There were 47 Vine reviews and 8,362 non-Vine reviews.
-![total-reviews-img](<insert-link-to-total-reviews-img>)
+![total-reviews-img](resources/total-reviews-img.png)
 
 - 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
   - 15 Vine reviews were 5 stars. 4,332 non-Vine reviews were 5 stars.
-![5-star-reviews-df](<insert-link-to-5-star-revies-img>)
+![5-star-reviews-df](resources/5-star-reviews-img.png)
 
 - 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
   - 31.9% of Vine reviews were 5 stars. 51.8% of non-Vine reviews were 5 stars.
-![5-star-percantage-df](<insert-link-to-5-star-percentage-df-img>)
+![5-star-percentage-df](resources/5-star-percantage-img.png)
 
 ## Summary
 
-The results of this analysis demonstrates no positivity bias exists among reviews that are part of the Vine program. In fact, the analysis of the Watches category suggests that the honest, expert reviewers Aamazon has selected to participate in the Vine program for the category are much tougher critics than their non-Vine peers. However, this analysis is far from conclusive and further analysis of the Amazon Vine data is warranted. Given that SellBy has a diverse product catalogue, analyzing only one of the many product different categories available for study is insufficient.
+The results of this analysis demonstrates no positivity bias exists among reviews that are part of the Vine program. In fact, the analysis of the Watches category suggests that the honest, expert reviewers Amazon has selected to participate in the Vine program for the category are much tougher critics than their non-Vine peers. However, this analysis is far from conclusive and further analysis of the Amazon Vine data is warranted. Given that SellBy has a diverse product catalogue, analyzing only one of the many product different categories available for study is insufficient.
 
-To make the best decisions possible, SellBy's stakeholders should have an analysis of potential positivity bias for each of the company's largest segments and/or those for which they are considering enrolling in the Vine program. Given that Vine reviewers are not product category agnostic -rather they are reviewers acknoledged with having an expertise within specific categories- it would be prudent for SellBy stakeholders to evaluate relevant categories individually, in certain buckets and as a whole. This holistic analysis will allow SellBy to properly assess the potential value of the Vine program and how to best structure their participation.
+To make the best decisions possible, SellBy's stakeholders should have an analysis of potential positivity bias for each of the company's largest segments and/or those for which they are considering enrolling in the Vine program. Given that Vine reviewers are not product category agnostic -rather they are reviewers acknowledged with having an expertise within specific categories- it would be prudent for SellBy stakeholders to evaluate relevant categories individually, in certain buckets and as a whole. This holistic analysis will allow SellBy to properly assess the potential value of the Vine program and how to best structure their participation.
