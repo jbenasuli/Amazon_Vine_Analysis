@@ -10,15 +10,15 @@ Amazon has made datasets for the US based reviews of nearly 50 different product
 
 The questions used in evaluating bias and results of the Watches category analysis are as follows:
 
-- 1. How many Vine reviews and non-Vine reviews were there?
+- How many Vine reviews and non-Vine reviews were there?
   - There were 47 Vine reviews and 8,362 non-Vine reviews.
 ![total-reviews-img](resources/total-reviews-img.png)
 
-- 2. How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
   - 15 Vine reviews were 5 stars. 4,332 non-Vine reviews were 5 stars.
 ![5-star-reviews-df](resources/5-star-reviews-img.png)
 
-- 3. What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
   - 31.9% of Vine reviews were 5 stars. 51.8% of non-Vine reviews were 5 stars.
 ![5-star-percentage-df](resources/5-star-percantage-img.png)
 
